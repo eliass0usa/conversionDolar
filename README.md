@@ -29,3 +29,8 @@ Certifique-se de inserir a cotação do dólar atualizada para obter resultados 
 Este projeto é uma ótima oportunidade para praticar conceitos de programação orientada a objetos em Java, especialmente o uso de membros estáticos para funcionalidades comuns que não dependem do estado de instâncias específicas da classe.
 
 Divirta-se explorando e aprendendo com este conversor simples de Reais para Dólares!
+
+
+
+Créditos: Java COMPLETO Programação Orientada a Objetos + Projetos | Nelio Alves
+(UDEMY.COM)
